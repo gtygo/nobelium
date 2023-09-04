@@ -22,6 +22,8 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
         {/* <meta content={BLOG.darkBackground} name="theme-color" /> */}
         <meta name="robots" content="follow, index" />
         <meta charSet="UTF-8" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7288077428184095"
+     crossorigin="anonymous"></script>
         {BLOG.seo.googleSiteVerification && (
           <meta
             name="google-site-verification"
