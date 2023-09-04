@@ -21,7 +21,6 @@ const Container = ({ children, layout, fullWidth, ...customMeta }) => {
         <title>{meta.title}</title>
         {/* <meta content={BLOG.darkBackground} name="theme-color" /> */}
         <meta name="robots" content="follow, index" />
-        <meta name="monetag" content="c2302e8774bc2b307cdcfaabd05b965e"/>
         <meta charSet="UTF-8" />
         {BLOG.seo.googleSiteVerification && (
           <meta
