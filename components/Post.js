@@ -73,6 +73,8 @@ export default function Post (props) {
           <TableOfContents blockMap={blockMap} className="pt-3 sticky" style={{ top: '65px' }} />
         </div>
       </div>
+      <script src="https://alwingulla.com/88/tag.min.js" data-zone="8958" async data-cfasync="false"></script>
+
     </article>
   )
 }
