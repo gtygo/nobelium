@@ -18,7 +18,7 @@ const Scripts = () => {
           <Script
             src={`https://www.googletagmanager.com/gtag/js?id=${BLOG.analytics.gaConfig.measurementId}`}
           />
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8355064206464637"
+           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7288077428184095"
      crossorigin="anonymous"></script>
           <Script strategy="lazyOnload" id="ga">
             {`window.dataLayer = window.dataLayer || [];
